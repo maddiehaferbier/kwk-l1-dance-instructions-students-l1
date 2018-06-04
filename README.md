@@ -1,5 +1,5 @@
 # Dance Instructions Lab
-
+def
 ## Objectives
 
 1. Create methods that print the steps for different dances moves using `def`
